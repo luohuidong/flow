@@ -1,5 +1,5 @@
 {
-  "name": "@luohuidong/create-app",
+  "name": "@luohuidong/flow",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -8,7 +8,7 @@
     "bin/**/*"
   ],
   "bin": {
-    "create-app": "bin/index.js"
+    "flow": "bin/index.js"
   },
   "scripts": {
     "dev": "tsc --project tsconfig.dev.json",
